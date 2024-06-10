@@ -8,9 +8,18 @@ function App() {
       <header className="App-header">
         <CurrencyConverter/>
       
+    
+
+
+
       </header>
     </div>
+
+
+
   );
 }
 
 export default App;
+
+
